@@ -5,6 +5,7 @@ Tags:
 Васияров Юрий
 CTO, Ozon.Travel
 yuriy.vasiyarov@gmail.com
+telegram: @yvasiyarov
 
 * Немного обо мне
 - В 2009 году закончил УлГТУ по специальности - Вычислительные комплексы, системы и сети
@@ -52,6 +53,44 @@ yuriy.vasiyarov@gmail.com
 * Вот я закончил ВУЗ, а дальше что ?
 .image cp.png
 
+
+* Менеджер
+- Менеджер это не царь, а специалист по управлению.
+- Управлять вообще не легкая работа, а управлять программистами - вдвойне
+- Самый ценный навык: умение добиваться результата
+- Высокая конкуренция. Собеседование сильно зависит от человеческого фактора
+- А.М.Орлов - Секреты управления программистами
+- Peter Drucker - The Effective Executive
+
+* QA
+- Инженер по верификации ПО
+- Отсутсвует как специальность. Этому нигде не учат.
+- Ручные QA - бестолковые программисты
+- QA автоматизаторы - на вес золота. Гораздо труднее найти чем программистов. 
+
+* SysAdmins/DevOps/SRE
+- Эникейщики - это не инженеры, это обслуживающий персонал.
+- Умение программировать - обязательный навык.
+- Второй обязательный навык - стрессоустойчивость
+- Peter Membrey. Practical Load Balancing
+- Site Reliability Engineering. How Google run production systems
+.image dns.jpg _ 400
+
+* Программист
+- Каждые 1-2 года появляется новый язык
+- Каждые пол года появляется новый фреймворк
+- Что учить-то ?
+.image new_fw.jpg _ 500
+
+* Что я знаю из вечного
+- учить учится
+- алгоритмы, структуры данных. За 50 лет мало что изменилось 
+- архитектура операционых систем. Меняется крайне медленно 
+- компьютерные сети. TCP/IP жил, жив и будет жить.
+- английский язык
+- Brian W. Kernighan, Rob Pike - The Practice of Programming
+- Robert Love - Linux Kernel Development
+
 * Hard skills vs soft skills
 .image softskills.jpg
 
@@ -83,23 +122,32 @@ yuriy.vasiyarov@gmail.com
 : в своей правоте. А не называть их дибилами просто потому что они с вами не согласны и не понимают
 : вещей которые вам кажутся очевидными.
 
-* Hard skills
-- Каждые 1-2 года появляется новый язык
-- Каждые пол года появляется новый фреймворк
-- Что учить-то ?
-.image new_fw.jpg _ 500
+* Участие в Open source как способ развить свои навыки
+- ты можешь сам докопаться до сути вещей
+- ты можешь сам исправить проблему любую (без помощи вендора)
+- ты учишься писать стабильные и масштабируемые системы
+- ты приобретаешь полезные знакомства
+.image fix.jpg
 
-* Учите вечное 
-- алгоритмы, структуры данных
-- архитектура операционых систем
-- сети (TCP/IP)
-- английский язык
+* Node.js _getActiveRequests()/_getActiveHandles()
+- методы как бы есть и как бы их нет(не документированы)
+- несколько упоминаний на stackoverflow, без конкретики
+- по названию тоже ничего не понятно
 
-* Не боги горшки обжигают
-- Google - https://careers.google.com/students/engineering-and-technical-internships/
-- Facebook - https://www.facebook.com/careers/students-and-grads/
-- Yandex - https://yandex.ru/jobs/vacancies/interns/summer/
-- Mail.ru - https://polis.mail.ru/news/9103/stazhirovka-v-mailru-group-otlichnoe-nachalo-v-sfere-it-1/
+* Node.js _getActiveRequests()/_getActiveHandles()
+.image node_1_1.png _ 1000
+
+* Node.js _getActiveRequests()/_getActiveHandles()
+.image node_1_2.png _ 1000
+
+* Node.js _getActiveRequests()/_getActiveHandles()
+.image node_1_3.png _ 1000
+
+* Node.js _getActiveRequests()/_getActiveHandles()
+.image node_1_4.png _ 1000
+
+* Архитектура Node.js
+.image node.png _ 1000
 
 * Вопросы
 .image voprosy.jpg _ 550
